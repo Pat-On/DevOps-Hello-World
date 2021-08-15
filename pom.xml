@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com:Pat-On/DevOps-Hello-World.git</connection>
     <developerConnection>scm:git:git@github.com:Pat-On/DevOps-Hello-World.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/Pat-On/DevOps-Hello-World.git</url>
+    <url>http://github.com/Pat-On/DevOps-Hello-World</url>
   </scm>
 
   <prerequisites>
