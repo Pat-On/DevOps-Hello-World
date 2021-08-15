@@ -207,10 +207,13 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection>
-    <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection>
+<!--            git@github.com:Pat-On/DevOps-Hello-World.git -->
+    <connection>scm:git:git@github.com:Pat-On/DevOps-Hello-World.git</connection>
+<!--     <connection>scm:git:git@github.com:jleetutorial/maven-project.git</connection> -->
+    <developerConnection>scm:git:git@github.com:Pat-On/DevOps-Hello-World.git</developerConnection>
+<!--            <developerConnection>scm:git:git@github.com:jleetutorial/maven-project.git</developerConnection> -->
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>https://github.com/Pat-On/DevOps-Hello-World.git</url>
   </scm>
 
   <prerequisites>
